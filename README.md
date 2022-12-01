@@ -7,4 +7,4 @@ A common assumption in causal inference from observational data is the assumptio
 
 ## Experiments
 
-All our experiments can be reproduced using the .ipynb files in the /notebooks folder. Note, experiments with the continous data was run using the scripts in /R-code
+All our experiments can be reproduced using the .ipynb files in the /notebooks folder. 
