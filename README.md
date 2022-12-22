@@ -1,4 +1,4 @@
-# Combining observational datasets from multiple environments to detect hidden confounding
+# Detecting hidden confounding in observational data using multiple environments
 
 ### [Link to paper](https://arxiv.org/abs/2205.13935)
 
